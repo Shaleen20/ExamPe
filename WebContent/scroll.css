@@ -1,0 +1,7 @@
+div.picture1 {
+   width:100px; /*width of your image*/
+   height:100px; /*height of your image*/
+   background-image:url(project-slide-1.jpg);
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+}
